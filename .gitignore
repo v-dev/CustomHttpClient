@@ -1,0 +1,9 @@
+.settings
+.svn
+META-INF
+.classpath
+.project
+bin
+.class
+ProxyInfoConstructorTest.java
+ProxyInfoSettersTest.java
